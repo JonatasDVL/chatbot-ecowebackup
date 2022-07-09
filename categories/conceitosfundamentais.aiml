@@ -2053,7 +2053,10 @@
         	<random>
 				<li> Os fatores antrópicos são relativos às ações humanas que interferem no meio, causando consequências nos ecossistemas.</li>
 				<li> Os fatores antrópicos estão relacionados às ações humanas que interferem negativamente ou positivamente no meio ambiente, causando problemas ou resolvendo tais problemas nos ecossistemas.</li> 
-        		<li> Os fatores antrópicos estão relacionados aos comportamentos humanos que interferem no meio ambiente, causando consequências negativas, na maior parte das vezes, ou positivas nos ecossistemas.</li>    
+        		<li> Os fatores antrópicos estão relacionados aos comportamentos humanos que interferem no meio ambiente, causando consequências negativas, na maior parte das vezes, ou positivas nos ecossistemas.</li>   
+				<li> Os fatores antrópicos estão relacionados com a ação humana e suas atividades normalmente negativas para o ecossistema.</li>
+				<li> Fatores antrópicos são o desequilíbrio no meio ambiente causado pelo ser humano.</li>
+				<li> Os fatores antrópicos são as ações humanas no ecossistema.</li>
         	</random>
     	</template>
   	</category>
@@ -2645,7 +2648,6 @@
     	</template>
   	</category>
 
-
 	<category>
     	<pattern> # EXEMPLO # HABITAT # </pattern>
     	<template>
@@ -2748,6 +2750,457 @@
     	<pattern> # TIPOS # HABITATS # </pattern>
     	<template>
         	<srai> # EXEMPLO # HÁBITAT # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é/importancia a luz na biologia? -->
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # LUZ # </pattern>
+    	<template>
+        	<random>
+				<li> A luz é essencial para grande parte dos seres vivos e no ecossistema, sendo importante fator abiótico que pode agir de várias maneiras no nosso meio ambiente, tanto que, ela desempenha diferentes formas no meio, como a radiação, intensidade entre outros fatores.</li>
+				<li> A luz é vital para os seres vivos, pois grande parte necessita dela para viver, principalmente as plantas, já que, elas desempenham o processo de fotossíntese.</li> 
+        		<li> Na biologia a luz é um dos elementos fundamentais no desenvolvimento dos seres vivos, pois desempenha inúmeros papéis, de forma direta e indireta, para todo o ecossistema.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # LUZ # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # LUZ # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- A importância da temperatura? -->
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # TEMPERATURA # </pattern>
+    	<template>
+        	<random>
+				<li> A temperatura pode influenciar de diversas formas um ser vivo, indo do seu comportamento até aspectos morfológicos, como também para sua sobrevivência.</li>
+				<li> A luz é vital para os seres vivos, pois grande parte necessita dela para viver, principalmente as plantas, já que, elas desempenham o processo de fotossíntese.</li> 
+        		<li> Na biologia a luz é um dos elementos fundamentais no desenvolvimento dos seres vivos, pois desempenha inúmeros papéis, de forma direta e indireta, para todo o ecossistema.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # INFLUÊNCIA # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INFLUENCIA # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+
+
+	<category>
+    	<pattern> # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIAS # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIAS # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INFLUÊNCIA # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INFLUENCIA # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INFLUÊNCIAS # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # INFLUENCIAS # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # TEMPERATURAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é Salinidade? -->
+
+	<category>
+    	<pattern> # SALINIDADE # </pattern>
+    	<template>
+        	<random>
+				<li> A salinidade é definida pela concentração de sais minerais presentes na água, um dos fatores que condicionam a vida no meio aquático.</li>
+				<li> A salinidade é a relação entre a concentração de sais na água. Além disso, a salinidade influencia nas condições de vida no meio aquático.</li> 
+        		<li> A salinidade está correlacionada com sais minerais presentes na água. Outrossim, a salinidade é um fator que condicionam a vida dos seres aquáticos.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+
+	<!-- O que é Solo? -->
+
+	<category>
+    	<pattern> # SOLO # </pattern>
+    	<template>
+        	<random>
+				<li> O solo é a mistura de diversos materiais, sendo eles principalmente rochosos e de matéria orgânica, contudo cada solo apresenta suas peculiaridades, como a porosidade, pH, textura e permeabilidade. </li>
+				<li> É  um conjunto de vários materiais rochosos e matéria orgânica misturadas, contudo além disso cada solo possui suas particularidades, sendo elas: porosidade, pH, textura e permeabilidade.</li> 
+        		<li> O solo é a junção, principalmente, de materiais rochosos e matéria orgânica, contudo ele pode apresentar características específicas, como a porosidade, pH, textura e permeabilidade.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+
+	<!-- pH no Solo? -->
+
+	<category>
+    	<pattern> # PH # SOLO # </pattern>
+    	<template>
+        	<random>
+				<li> Está relacionado a sua acidez, pois o pH mede essa constante, e o solo pode ter um alto índice de acidez ou baixo.</li>
+				<li> O pH é a relação de acidez de uma determinada substância ou matéria, neste caso o solo.</li> 
+        		<li> O pH do solo é uma forma de medir a acidez do solo.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+
+	<!-- O que é a porosidade do Solo? -->
+
+	<category>
+    	<pattern> # POROSIDADE # SOLO # </pattern>
+    	<template>
+        	<random>
+				<li> A porosidade do solo é quando existe um espaçamento entre as partículas do solo.</li>
+				<li> A porosidade do solo é a relação de espaçamento entre as partículas do solo. </li> 
+        		<li> A porosidade do solo são os espaçamentos que o solo possui. </li>  
+        	</random>
+    	</template>
+  	</category>
+
+
+	<!-- O que é a textura do Solo? -->
+
+	<category>
+    	<pattern> # TEXTURA # SOLO # </pattern>
+    	<template>
+        	<random>
+				<li> A textura do solo é a relação do tipo de matéria que existe em sua composição, podendo ser feita de areia, lodo e argila. A textura influencia diretamente os tipos de seres vivos que vivem naquele local.</li>
+				<li> O solo possui diversas texturas, sendo elas: argilosas, lodosas e arenosas. Tais texturas influenciam diretamente nos animais que lá residem.</li> 
+        		<li> A textura do solo é definida pela relação de: areia, lodo e argila, que o solo tem, desta forma o solo é formado com textura, contudo irá depender da porcentagem de cada elemento.</li>  
+        	</random>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # TEXTURAS # SOLO # </pattern>
+    	<template>
+        	<srai> # TEXTURA # SOLO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TEXTURA # SOLOS # </pattern>
+    	<template>
+        	<srai> # TEXTURA # SOLO # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # TEXTURAS # SOLOS # </pattern>
+    	<template>
+        	<srai> # TEXTURA # SOLO # </srai>
+    	</template>
+  	</category>
+
+	<!-- O que é a permeabilidade do Solo? -->
+
+	<category>
+    	<pattern> # PERMEABILIDADE # </pattern>
+    	<template>
+        	<random>
+				<li> Está relacionado à porosidade do solo, sendo a capacidade de absorção da água em um solo, logo quanto mais poroso é o solo também será mais permeável.</li>
+				<li> A permeabilidade é a relação entre o solo e o quanto ele pode absorver de água em determinado tempo.</li> 
+        		<li> A permeabilidade do solo é a relação da capacidade do solo em deixar entrar água por causa da porosidade.</li>  
+        	</random>
     	</template>
   	</category>
 
